@@ -52,7 +52,7 @@ Ask A Manager Salary Survey 2024
 
 # Model Accuracy Comparison
 
-![Model Accuracy](plots/model_accuracy.png)
+![Model Accuracy](results/model_accuracy.png)
 
 Tree-based models outperform Logistic Regression, indicating nonlinear relationships between experience, industry, and salary.
 
