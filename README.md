@@ -94,3 +94,21 @@ Most influential predictors:
 ---
 
 # Repository Structure
+salary-prediction/
+│
+├── data/
+│   └── Ask A Manager Salary Survey 2024 (Responses) (1).csv
+│
+├── plots/
+│   ├── confusion_logistic_regression.png
+│   ├── confusion_random_forest.png
+│   ├── confusion_gradient_boosting.png
+│   └── feature_importance.png
+│
+├── results/
+│   ├── model_accuracy.png
+│   └── classification_report.txt
+│
+├── salary_prediction.ipynb
+├── README.md
+└── requirements.txt
